@@ -2,7 +2,7 @@
 
 ### Clone repository from gitHub
 ```
-clone git 
+clone git https://github.com/shamapar/playwright-api-framework-gorest.git
 ```
 ### Pre-requisite
 Nodejs<br>
