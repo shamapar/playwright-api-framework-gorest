@@ -1,0 +1,72 @@
+[
+    {
+        "id": 7871894,
+        "name": "Amish Kakkar",
+        "email": "amish_kakkar@bernhard.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 7871893,
+        "name": "Anilaabh Jha",
+        "email": "jha_anilaabh@mraz-cruickshank.test",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 7871892,
+        "name": "Baijayanti Acharya",
+        "email": "baijayanti_acharya@kuhn.example",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 7871891,
+        "name": "Anjali Gupta",
+        "email": "anjali_gupta@mante-borer.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 7871890,
+        "name": "Rev. Nikita Patil",
+        "email": "patil_nikita_rev@quigley.test",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 7871888,
+        "name": "Mr. Vijay Achari",
+        "email": "mr_achari_vijay@blick-turcotte.test",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 7871887,
+        "name": "Ekalavya Marar",
+        "email": "marar_ekalavya@borer.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 7871886,
+        "name": "Siddhran Bhattacharya",
+        "email": "siddhran_bhattacharya@metz-oberbrunner.test",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 7871885,
+        "name": "Rudra Patel V",
+        "email": "patel_rudra_v@williamson.example",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 7871884,
+        "name": "Msgr. Aadi Gill",
+        "email": "gill_aadi_msgr@dicki.example",
+        "gender": "male",
+        "status": "active"
+    }
+]
