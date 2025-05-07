@@ -1,14 +1,20 @@
 ## API Testing framework for gorest
 
-### Clone repository from gitHub
-```
-clone git https://github.com/shamapar/playwright-api-framework-gorest.git
-```
 ### Pre-requisite
 Nodejs<br>
 Playwright<br>
 Faker<br>
 Eslint<br>
+
+### Clone repository from gitHub
+```
+clone git https://github.com/shamapar/playwright-api-framework-gorest.git
+```
+
+Install dependencies
+```
+npm install
+```
 
 ### Token generate
 ```
