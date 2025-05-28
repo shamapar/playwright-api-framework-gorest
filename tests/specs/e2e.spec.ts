@@ -3,6 +3,7 @@ import { createUserPayload, duplicateUser } from '../testData/createUser'
 import { deleteApiRequest, getApiRequest, patchApiRequest, postApiRequest } from '../helper/actions'
 import { IUser } from '../customType/user';
 import { updatePayload } from '../testData/updateData';
+import { userSchema } from '../schema/schema'
 
 let USERID: number;
 
@@ -12,6 +13,7 @@ test.beforeAll('create a user', async ({ request }) => {
 
     const body: IUser = await response.json()
     expect(body).toHaveProperty("id");
+    userSchema.parse(body);
 
     USERID = body.id;
 })
