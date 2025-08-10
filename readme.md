@@ -1,10 +1,7 @@
 ## API Testing framework for gorest
 
 ### Pre-requisite
-Nodejs<br>
-Playwright<br>
-Faker<br>
-Eslint<br>
+Nodejs
 
 ### Clone repository from gitHub
 ```
